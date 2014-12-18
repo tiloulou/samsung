@@ -107,3 +107,5 @@ This data set has 180 rows of 68 columns, detailed herebelow :
 * "66" "fBodyBodyAccJerkMag.std.."
 * "67" "fBodyBodyGyroMag.std.."
 * "68" "fBodyBodyGyroJerkMag.std.."
+
+Column names are issued from the original data explained into file "features_info.txt" of the raw dataset
